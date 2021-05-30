@@ -3,4 +3,4 @@ A programmer portfolio is more than a simple resume. In essence, it is a showcas
 
 Portfolio made of css, html and vanilla js has been deployed by Heroku App.
 
-Click here to visit my Portfolio: https://hemanathportfolio.herokuapp.com/
+Click here to visit my Portfolio: https://findhemanath.herokuapp.com/
