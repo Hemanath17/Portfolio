@@ -9,6 +9,6 @@ Click here to visit my Portfolio: https://findhemanath.herokuapp.com/
 
 ![](screenshot1.png)
 
-![](screenshot1.png)
+![](screenshot2.png)
 
-![](screenshot1.png)
+![](screenshot3.png)
